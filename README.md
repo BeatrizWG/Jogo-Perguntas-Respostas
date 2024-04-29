@@ -10,5 +10,8 @@ Este é um projeto desenvolvido para a disciplina de Linguagem de Programação 
 - O jogo registra e exibe a pontuação do jogador.
 
 ## Participantes
-- [Beatriz Wanderley](https://www.linkedin.com/in/beatrizwg/)(https://github.com/BeatrizWG)
-- [Wellington Rangel](https://www.linkedin.com/in/wellington-rangel-42414428a)(https://github.com/wellington0303)
+- [Beatriz Wanderley (LinkedIn)](https://www.linkedin.com/in/beatrizwg/)
+  [Beatriz Wanderley (GitHub)](https://github.com/BeatrizWG)  
+- [Wellington Rangel (LinkedIn)](https://www.linkedin.com/in/wellington-rangel-42414428a)
+  [Wellington Rangel (GitHub)](https://github.com/wellington0303)
+
